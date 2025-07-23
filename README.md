@@ -2,12 +2,12 @@
 Train your own ML Model using XGBoost and implement the saved Model in a TKinter GUI for entering required inputs and showing the growth plot
 
 # Libraries Required
-pandas
-numpy
-xgboost
-scikit-learn
-joblib
-matplotlib
+pandas, 
+numpy, 
+xgboost, 
+scikit-learn, 
+joblib, 
+matplotlib, 
 tkinter (built-in with Python)
 
 # Details
