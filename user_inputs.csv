@@ -1,0 +1,98 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Age_Exp_Interaction,Experience_Level,Current Salary,Duration,Predicted Salary,Estimated Growth
+30.0,Male,Master's,Software Engineer,15.0,450.0,Senior,70000.0,10.0,109845.6,39845.6015625
+30.0,Male,Bachelor's,Other,15.0,450.0,Senior,70000.0,10.0,96752.81,26752.8125
+30.0,Male,Bachelor's,Other,15.0,450.0,Senior,70000.0,10.0,96752.81,26752.8125
+20.0,Male,Bachelor's,Software Engineer,11.0,220.0,Senior,20000000.0,10.0,88888.336,-19911111.6640625
+30.0,Male,Bachelor's,Software Engineer,15.0,450.0,Senior,100000.0,10.0,99397.04,-602.9609375
+30.0,Male,Bachelor's,Software Engineer,15.0,450.0,Senior,100000.0,10.0,99397.04,-602.9609375
+20.0,Male,Bachelor's,Software Engineer,11.0,220.0,Senior,20000000.0,10.0,88888.336,-19911111.6640625
+30.0,Male,Bachelor's,Software Engineer,25.0,750.0,Expert,70000.0,20.0,133097.69,63097.6875
+30.0,Male,Bachelor's,Software Engineer,25.0,750.0,Expert,70000.0,20.0,133097.69,63097.6875
+30.0,Male,Bachelor's,Software Engineer,15.0,450.0,Senior,70000.0,10.0,99397.04,29397.0390625
+30.0,Male,Bachelor's,Software Engineer,15.0,450.0,Senior,70000.0,10.0,99397.04,29397.0390625
+10.0,Male,Bachelor's,Software Engineer,5.0,50.0,Junior,2.0,4.0,58778.094,58776.09375
+30.0,Male,Bachelor's,Manager,15.0,450.0,Senior,90000.0,10.0,96752.81,6752.8125
+30.0,Male,Bachelor's,Software Engineer,20.0,600.0,Senior,70000.0,15.0,107115.54,37115.5390625
+30.0,Male,Bachelor's,Software Engineer,20.0,600.0,Senior,70000.0,15.0,107115.54,37115.5390625
+30.0,Male,Bachelor's,Software Engineer,17.0,510.0,Senior,90000.0,10.0,98317.945,8317.9453125
+30.0,Male,Bachelor's,Chief Technology Officer,20.0,600.0,Senior,80000.0,10.0,107709.11,27709.109375
+30.0,Male,Bachelor's,Chief Technology Officer,20.0,600.0,Senior,80000.0,10.0,107709.11,27709.109375
+30.0,Male,Bachelor's,Business Intelligence Analyst,17.0,510.0,Senior,10000.0,10.0,93041.305,83041.3046875
+30.0,Male,Bachelor's,Chief Technology Officer,17.0,510.0,Senior,70000.0,10.0,98285.195,28285.1953125
+30.0,Male,Bachelor's,Chief Technology Officer,16.0,480.0,Senior,70000.0,9.0,101104.63,31104.6328125
+30.0,Male,Bachelor's,Chief Technology Officer,16.0,480.0,Senior,7000.0,9.0,101104.63,94104.6328125
+30.0,Male,Bachelor's,Chief Technology Officer,16.0,480.0,Senior,7.0,9.0,101104.63,101097.6328125
+30.0,Male,Bachelor's,Chief Technology Officer,14.0,420.0,Senior,70000.0,7.0,119447.25,49447.25
+30.0,Male,Bachelor's,Chief Technology Officer,14.0,420.0,Senior,700.0,7.0,24569.04,23869.0390625
+30.0,Male,Bachelor's,Chief Technology Officer,12.0,360.0,Senior,700.0,7.0,23350.955,22650.955078125
+30.0,Male,Bachelor's,Chief Technology Officer,8.0,240.0,Mid,700.0,7.0,19268.84,18568.83984375
+30.0,Male,Bachelor's,Chief Technology Officer,2.0,60.0,Junior,700.0,1.0,9582.183,8882.1826171875
+30.0,Male,Bachelor's,Junior Operations Manager,2.0,60.0,Junior,700.0,1.0,8265.256,7565.255859375
+30.0,Male,Bachelor's,CEO,2.0,60.0,Junior,700.0,1.0,12198.241,11498.2412109375
+30.0,Male,Bachelor's,Director,2.0,60.0,Junior,700.0,1.0,8268.052,7568.0517578125
+30.0,Male,Bachelor's,IT Support,2.0,60.0,Junior,700.0,1.0,8852.186,8152.185546875
+30.0,Male,Bachelor's,Chief Technology Officer,17.0,510.0,Senior,70000.0,10.0,118439.03,48439.03125
+30.0,Male,Bachelor's,Chief Technology Officer,17.0,510.0,Senior,70000.0,10.0,118439.03,48439.03125
+30.0,Male,Bachelor's,Chief Technology Officer,14.0,420.0,Senior,7000.0,7.0,24569.04,17569.0390625
+30.0,Male,Bachelor's,Chief Technology Officer,14.0,420.0,Senior,7000.0,7.0,24569.04,17569.0390625
+30.0,Male,Bachelor's,Chief Technology Officer,14.0,420.0,Senior,7000.0,7.0,24569.04,17569.0390625
+30.0,Male,Bachelor's,CEO,14.0,420.0,Senior,7000.0,7.0,27103.383,20103.3828125
+30.0,Male,Bachelor's,Help Desk Analyst,14.0,420.0,Senior,7000.0,7.0,23485.613,16485.61328125
+30.0,Male,Bachelor's,Recruiter,14.0,420.0,Senior,7000.0,7.0,20933.396,13933.396484375
+30.0,Male,Bachelor's,Recruiter,8.0,240.0,Mid,7000.0,1.0,18087.871,11087.87109375
+30.0,Male,Bachelor's,Recruiter,9.0,270.0,Mid,7000.0,2.0,18297.244,11297.244140625
+30.0,Male,Bachelor's,Recruiter,7.0,210.0,Mid,7000.0,0.0,17573.96,10573.9609375
+30.0,Male,Bachelor's,Recruiter,7.5,225.0,Mid,7000.0,0.5,17573.96,10573.9609375
+30.0,Male,Bachelor's,Training Specialist,7.0,210.0,Mid,7000.0,0.0,17468.723,10468.72265625
+30.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,7000.0,0.0,7512.7466,512.74658203125
+30.0,Male,Bachelor's,Chief Technology Officer,7.0,210.0,Mid,7000.0,1.0,18782.852,11782.8515625
+30.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,7000.0,0.0,7512.7466,512.74658203125
+30.0,Male,Bachelor's,Chief Technology Officer,7.0,210.0,Mid,70000.0,0.0,114814.13,44814.1328125
+30.0,Male,Bachelor's,Chief Technology Officer,8.0,240.0,Mid,70000.0,1.0,114962.68,44962.6796875
+30.0,Male,Bachelor's,Chief Technology Officer,9.0,270.0,Mid,70000.0,2.0,115082.93,45082.9296875
+30.0,Male,Bachelor's,Chief Technology Officer,7.0,210.0,Mid,7000.0,0.0,58105.73,51105.73046875
+30.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,7000.0,0.0,2594.4805,-4405.51953125
+30.0,Male,Bachelor's,Chief Technology Officer,1.0,30.0,Junior,7000.0,1.0,2822.7466,-4177.25341796875
+30.0,Male,Bachelor's,Chief Technology Officer,2.0,60.0,Junior,7000.0,2.0,5940.696,-1059.30419921875
+30.0,Male,Bachelor's,Chief Technology Officer,2.5,75.0,Junior,7000.0,2.0,5940.696,-1059.30419921875
+30.0,Male,Bachelor's,Chief Technology Officer,3.0,90.0,Junior,7000.0,2.0,12985.894,5985.8935546875
+30.0,Male,Bachelor's,Chief Technology Officer,2.0,60.0,Junior,7000.0,1.0,5940.696,-1059.30419921875
+30.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,0.0,0.0,2594.4805,2594.48046875
+30.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,1.0,0.0,2594.4805,2593.48046875
+30.0,Male,Bachelor's,Chief Technology Officer,1.0,30.0,Junior,1.0,1.0,2822.7466,2821.74658203125
+30.0,Male,Bachelor's,Chief Technology Officer,1.0,30.0,Junior,1.0,1.0,2822.7466,2821.74658203125
+30.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,0.0,0.0,2594.4805,2594.48046875
+30.0,Male,Bachelor's,Chief Technology Officer,1.0,30.0,Junior,0.0,1.0,2822.7466,2822.74658203125
+30.0,Male,Bachelor's,Chief Technology Officer,5.0,150.0,Junior,0.0,5.0,26273.047,26273.046875
+30.0,Male,Bachelor's,Chief Technology Officer,8.0,240.0,Mid,0.0,1.0,63586.49,63586.48828125
+30.0,Male,Bachelor's,Chief Technology Officer,8.0,240.0,Mid,7000.0,1.0,63586.49,56586.48828125
+30.0,Male,Bachelor's,Chief Technology Officer,8.0,240.0,Mid,70.0,1.0,63586.49,63516.48828125
+30.0,Male,Bachelor's,Chief Technology Officer,7.0,210.0,Mid,70.0,0.0,58105.73,58035.73046875
+30.0,Male,Bachelor's,Chief Technology Officer,7.0,210.0,Mid,7000.0,0.0,32507.586,25507.5859375
+1.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,0.0,0.0,-3086.7021,-3086.7021484375
+1.0,Male,Bachelor's,Chief Technology Officer,1.0,1.0,Junior,200.0,1.0,-1813.2532,-2013.253173828125
+10.0,Male,Bachelor's,Chief Technology Officer,1.0,10.0,Junior,200.0,1.0,-1813.2532,-2013.253173828125
+10.0,Male,Bachelor's,Chief Technology Officer,1.0,10.0,Junior,200.0,1.0,-1813.2532,-2013.253173828125
+10.0,Male,Bachelor's,Chief Technology Officer,2.0,20.0,Junior,200.0,1.0,1088.1533,888.1533203125
+2.0,Male,Bachelor's,Chief Technology Officer,2.0,4.0,Junior,200.0,1.0,985.70026,785.7002563476562
+2.0,Male,Bachelor's,Chief Technology Officer,1.0,2.0,Junior,200.0,1.0,-1813.2532,-2013.253173828125
+2.0,Male,Bachelor's,Chief Technology Officer,1.1,2.2,Junior,200.0,1.0,-1813.2532,-2013.253173828125
+2.0,Male,Bachelor's,Chief Technology Officer,2.0,4.0,Junior,200.0,1.0,985.70026,785.7002563476562
+2.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,900.0,0.0,-3086.7021,-3986.7021484375
+2.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,900.0,0.0,-3086.7021,-3986.7021484375
+2.0,Male,Bachelor's,Chief Technology Officer,0.1,0.2,Junior,900.0,1.0,-3086.7021,-3986.7021484375
+30.0,Male,Bachelor's,Chief Technology Officer,0.1,3.0,Junior,900.0,1.0,-3005.2825,-3905.282470703125
+30.0,Male,Bachelor's,Chief Technology Officer,0.5,15.0,Junior,900.0,1.0,-2158.8596,-3058.859619140625
+30.0,Male,Bachelor's,Chief Technology Officer,0.5,15.0,Junior,90000.0,1.0,31692.97,-58307.029296875
+30.0,Male,Bachelor's,Chief Technology Officer,2.0,60.0,Junior,7000.0,1.0,2481.678,-4518.322021484375
+30.0,Male,Bachelor's,Chief Technology Officer,11.0,330.0,Senior,7000.0,1.0,56960.086,49960.0859375
+30.0,Male,Bachelor's,Chief Technology Officer,6.0,180.0,Mid,7000.0,1.0,25196.033,18196.033203125
+30.0,Male,Bachelor's,Chief Technology Officer,5.0,150.0,Junior,7000.0,0.0,14765.54,7765.5400390625
+30.0,Male,Bachelor's,Chief Technology Officer,0.0,0.0,Junior,7000.0,0.0,-3005.2825,-10005.282470703125
+30.0,Male,Bachelor's,Chief Technology Officer,1.0,30.0,Junior,7000.0,1.0,-1037.4005,-8037.4005126953125
+30.0,Male,Bachelor's,Chief Technology Officer,5.0,150.0,Junior,7000.0,5.0,14765.54,7765.5400390625
+30.0,Male,Bachelor's,Chief Technology Officer,10.0,300.0,Mid,70000.0,10.0,63886.754,-6113.24609375
+30.0,Male,Bachelor's,Chief Technology Officer,10.0,300.0,Mid,70000.0,10.0,63886.754,-6113.24609375
+30.0,Male,Bachelor's,Chief Technology Officer,5.0,150.0,Junior,70000.0,5.0,30831.959,-39168.041015625
+30.0,Male,Bachelor's,Chief Technology Officer,10.0,300.0,Mid,70000.0,10.0,704017.4,634017.375
+30.0,Male,Bachelor's,Chief Technology Officer,10.0,300.0,Mid,70000.0,10.0,178540.1,108540.09375
